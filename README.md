@@ -50,8 +50,4 @@ Backend developer but now I am a Cloud/Devops engineer always interested in know
 </p>
 
 
-<div align="center">
-  <img align="center" alt="GIF" src="https://simplecoding.dev/assets/devops.gif?raw=true" width="500" height="320" />
-</div>
-
 ⭐️ From [@Diego Márquez](https://github.com/desarrollomarquez)
