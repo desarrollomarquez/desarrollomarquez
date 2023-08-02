@@ -3,9 +3,8 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/diego-m%C3%A1rquez-b341b93b/">
+<a >
    AWS Cloud/DevOps Engineer
-  <img align="left" alt="Diego Márquez's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
@@ -40,12 +39,11 @@ Backend developer but now I am a Cloud/Devops engineer always interested in know
 ### Connect with Me
 
 <p align="center">
-<a href="https://www.instagram.com/diegomarquez14/">
-  <img align="left" alt="Diego Márquez's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a >
+  Instagram: diegomarquez14
 </a>
-</a>
-<a href="https://www.linkedin.com/in/diego-m%C3%A1rquez-b341b93b/">
-  <img align="left" alt="Diego Márquez's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a >
+ - Email: desarrollo.marquez@gmail.com
 </a>
 </p>
 
